@@ -33,4 +33,10 @@ TensorFlow Lite를 사용하여 모델을 생성 했습니다. 애플리케이�
 * Java
 
 ## 주요 키워드 
- 
+* App aplication
+* Git버전관리
+* Git 협업
+* Tensorflow Lite 모델 생성
+* 얼굴 인식 알고리즘
+* 피부 색상 추출
+* 퍼스널 

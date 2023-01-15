@@ -1,7 +1,7 @@
 # 퍼스널컬러 애플리케이션
 
 ## Front 화면
-<img serc="https://user-images.githubusercontent.com/83768386/212531398-2e2b3a2f-9c88-430a-99b0-42d8f07d873c.mp4">
+<img src="https://user-images.githubusercontent.com/83768386/212531398-2e2b3a2f-9c88-430a-99b0-42d8f07d873c.mp4">
 
 ## 프로젝트 개요
 * "퍼스널 컬러"라는 주제로 Android Studio를 사용하여 앱 애플리케이션을 구현 하였습니다.

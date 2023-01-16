@@ -3,6 +3,9 @@
 ## Front 화면
 <img src="https://user-images.githubusercontent.com/83768386/212531398-2e2b3a2f-9c88-430a-99b0-42d8f07d873c.mp4">
 
+## 데이터 변환 순서
+![data](https://user-images.githubusercontent.com/83768386/212599969-fbac599a-d92f-45f1-a931-7dcadc75532a.png)
+
 ## 프로젝트 개요
 * "퍼스널 컬러"라는 주제로 Android Studio를 사용하여 앱 애플리케이션을 구현 하였습니다.
 인공지능을 사용하여 학습을 하기위해 연예인들의 퍼스널컬러와 이미지를 selenium을 사용하여 웹 크롤링을 하여 가져와 데이터로 사용 했으며, 가져온 데이터를 분류하고 데이터를 학습 후
